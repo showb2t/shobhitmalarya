@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @shobhitmalarya
+- 👋 Hi, I’m Shobhit
 - 👀 I’m interested in Designing and Data Science
 - 🌱 I’m currently learning 3D modelling and DS with python 
 - 💞️ I’m looking to collaborate on anything
